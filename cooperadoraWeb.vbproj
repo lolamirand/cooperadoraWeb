@@ -150,6 +150,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="InsertarPago.aspx" />
     <Content Include="inicio.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -208,6 +209,13 @@
     </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="InsertarPago.aspx.designer.vb">
+      <DependentUpon>InsertarPago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InsertarPago.aspx.vb">
+      <DependentUpon>InsertarPago.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="inicio.aspx.designer.vb">
       <DependentUpon>inicio.aspx</DependentUpon>
