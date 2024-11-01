@@ -187,7 +187,7 @@
                 <asp:Button ID="Button3" runat="server" Text="Guardar" />
             </div>
             <div id="footer">
-                &copy; @E.E.S.T. N° 1 2024 5to año
+                &copy; E.E.S.T. N° 1 - 5to año, 2024
             </div>
         </div>
     </form>
